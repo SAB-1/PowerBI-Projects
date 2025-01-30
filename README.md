@@ -1,1 +1,2 @@
 # PowerBI-Projects
+The projects in this respiratory showcase my proficiency in Microsoft PowerBI. An analytical tool that I used almost daily to analyse data by importing the dataset, load it into power query, an inbuilt function of powerbi that allows data cleaning and manipulation and the process to writing DAX, create visuals that shows trends and pattern for data literates and illiterates from better understanding.
